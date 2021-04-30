@@ -1,3 +1,3 @@
 # Big-Contest
 
-![bigcontest](bigcontest.png)
+![bigcontest](bigcontest.png) 
